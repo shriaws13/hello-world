@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> Naman Maa Meri Pyaari Pyaari Maa New user Register for DevOps Learning</h1>
-    <p> this is final cicd Please fill in this form to create an account.</p>
+    <p> Om Namo this is final cicd Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
