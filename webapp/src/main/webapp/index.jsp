@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Jai Om Naman Maa Meri Pyaari Pyaari Maa </h1>
-    <p> Om Namo this is final cicd Please fill in this form to create an account.</p>
+    <h1> Pyaari Pyaari Maa </h1>
+    <p> fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
