@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> Jai Pyaari Maa </h1>
-    <p> Via ANSIBLE control Hello fill in this form to create an account.</p>
+    <p> fully automated now.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
