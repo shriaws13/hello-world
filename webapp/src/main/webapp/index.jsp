@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> Jai Pyaari Maa </h1>
-    <p> Shri k8-3 Babude WOW fully automated now.</p>
+    <p> Shri Devops k8-3 Babude WOW fully automated now.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
