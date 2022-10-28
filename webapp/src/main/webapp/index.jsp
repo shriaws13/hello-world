@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Jai Pyaari Maa </h1>
+    <h1> Jai Pyaari Maa ji </h1>
     <p> Finally all done Shri Devops k8-3 Babude WOW fully automated now.</p>
     <hr>
      
